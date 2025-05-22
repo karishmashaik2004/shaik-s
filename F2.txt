@@ -1,0 +1,2 @@
+REMOTE REPOSITORY:
+A Common place where all the developers together saves the code through internet
